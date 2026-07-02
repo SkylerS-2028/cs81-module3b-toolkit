@@ -7,3 +7,5 @@ isEven(): The isEven() function returned true when the argument was even and fal
 isOdd(): The isOdd() function returned true when the argument was odd and false when the argument was even. 
 
 power(): The power() function returned the first argument to the power of the second. 
+
+multiply(): The multiply() function returned the product of the first and second argument. 

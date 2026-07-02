@@ -7,3 +7,5 @@ isEven(): I predict that this function will return true if the argument is even,
 isOdd(): I predict that this function will return true if the argument is odd or false if the argument is even. 
 
 power(): I predict that this function will return the first argument to the power of the second. 
+
+multiply(): I predict that this function will return the product of the first and second argument.
