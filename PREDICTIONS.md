@@ -5,3 +5,5 @@ square(): I predict that this function will square the argument provided.
 isEven(): I predict that this function will return true if the argument is even, or false if the argument is odd. 
 
 isOdd(): I predict that this function will return true if the argument is odd or false if the argument is even. 
+
+power(): I predict that this function will return the first argument to the power of the second. 
