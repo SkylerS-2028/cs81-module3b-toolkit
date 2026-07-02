@@ -32,3 +32,15 @@ function power(x, y){
 function multiply(x, y){
     return x*y;
 }
+
+function isPrime(n){
+    for(i = 2; i<n; i++){
+        if(n%i === 0){
+            return true
+        }
+        else if(i === n-1){
+            return false
+         }
+    }
+}
+
