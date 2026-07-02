@@ -1,0 +1,1 @@
+double(): I predict that this function will double the number provided. 

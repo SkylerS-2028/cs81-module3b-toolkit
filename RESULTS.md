@@ -1,0 +1,1 @@
+double(): The double() function returned twice the value of the argument. 
