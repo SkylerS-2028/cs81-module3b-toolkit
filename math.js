@@ -24,3 +24,7 @@ function isOdd(n){
         return false;
     }
 }
+
+function power(x, y){
+    return x**y;
+}
