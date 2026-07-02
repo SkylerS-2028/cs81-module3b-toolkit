@@ -36,10 +36,10 @@ function multiply(x, y){
 function isPrime(n){
     for(i = 2; i<n; i++){
         if(n%i === 0){
-            return false
+            return false;
         }
         else if(i === n-1){
-            return true
+            return true;
          }
     }
 }
